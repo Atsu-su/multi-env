@@ -1,0 +1,2 @@
+docker cp projectx/vendor projectx2-php-1:/var/www
+docker cp projectx/storage projectx2-php-1:/var/www
